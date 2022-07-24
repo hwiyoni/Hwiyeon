@@ -1,0 +1,20 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Hwiyeon Kim
+description: Hwiyeon Kim's site
+baseurl: "/"
+url: "https://hwiyeon.github.io/"
+
+aux_links: 
+    "Hwiyeon on GitHub":
+        - "https://github.com/hwiyoni/hwiyeon.github.io"
+
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on Github"
+gh_edit_repository: "https://github.com/hwiyoni/hwiyeon.github.io"
+
+color_scheme: nil
+
+
+
